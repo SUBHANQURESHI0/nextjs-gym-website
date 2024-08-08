@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Personal Training",
+      "slug": "personal-training",
+      "description": "Experience personalized workout plans and one-on-one sessions with our expert trainers.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/programs/personal-training.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Group Classes",
+      "slug": "group-classes",
+      "description": "Join our dynamic group classes and enjoy the energy and motivation of working out with others.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/programs/group-classes.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Nutrition Coaching",
+      "slug": "nutrition-coaching",
+      "description": "Complement your training with our comprehensive nutrition coaching for optimal performance and recovery.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/programs/nutrition-coaching.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Yoga for Beginners",
+      "slug": "yoga-for-beginners",
+      "description": "Start your yoga journey with foundational poses and techniques taught by experienced instructors.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/programs/yoga.jpg"
+    },
+    {
+      "id": 5,
+      "title": "HIIT Workouts",
+      "slug": "hiit-workouts",
+      "description": "Boost your fitness with high-intensity interval training (HIIT) designed to burn fat and build muscle.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": false,
+      "image": "/programs/hiit.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Strength Training Fundamentals",
+      "slug": "strength-training-fundamentals",
+      "description": "Learn the basics of strength training with this introductory course on proper form and techniques.",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/programs/strength-training.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Cardio Kickboxing",
+      "slug": "cardio-kickboxing",
+      "description": "Get fit with cardio kickboxing, combining martial arts techniques with fast-paced cardio.",
+      "price": 159.99,
+      "instructor": "Samantha Miller",
+      "isFeatured": false,
+      "image": "/programs/cardio-kickboxing.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Pilates for Core Strength",
+      "slug": "pilates-for-core-strength",
+      "description": "Build core strength and flexibility with our comprehensive Pilates course.",
+      "price": 169.99,
+      "instructor": "Luke Harris",
+      "isFeatured": true,
+      "image": "/programs/pilates.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Dance Fitness",
+      "slug": "dance-fitness",
+      "description": "Enjoy a fun and energetic workout with dance fitness, blending dance moves with fitness routines.",
+      "price": 179.99,
+      "instructor": "Grace Lee",
+      "isFeatured": false,
+      "image": "/programs/dance-fitness.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Advanced Weightlifting",
+      "slug": "advanced-weightlifting",
+      "description": "Take your weightlifting to the next level with advanced techniques and personalized training plans.",
+      "price": 189.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/programs/weightlifting.jpg"
+    }
+  ]
+}
