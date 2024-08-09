@@ -5,6 +5,7 @@ import React from "react";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
 import Link from "next/link";
 import courseData from "@/data/music_courses.json";
+import { title } from "process";
 
 
 interface Course {
@@ -26,7 +27,7 @@ function page() {
       </h1>
       <div className="flex flex-wrap justify-center">
         {courseData.courses.map((course:Course) => (
-          <CardContainer className="inter-var m-4">
+          <CardContainer className="inter-var m-4" key={title}>
             <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
               <CardItem
                 translateZ="50"
